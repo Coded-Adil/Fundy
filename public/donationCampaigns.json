@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "Winter Warmth Drive - Dhaka",
+      "image": "https://i.ibb.co.com/XjPnHkQ/3.jpg",
+      "description": "Join us to distribute winter clothes and blankets to the underprivileged in Dhaka.",
+      "status": "Active",
+      "contactInfo": "contact@kindwarm.com",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Chattogram Blanket Campaign",
+      "image": "https://i.ibb.co.com/8rJNsCc/1.jpg",
+      "description": "Providing blankets to families in rural areas of Chattogram to combat the winter chill.",
+      "status": "Active",
+      "contactInfo": "chattogram@kindwarm.com",
+      "division": "Chattogram"
+    },
+    {
+      "id": 3,
+      "title": "Rajshahi Winter Relief",
+      "image": "https://i.ibb.co.com/7g3FzQ0/2.jpg",
+      "description": "Distributing winter clothes and hot meals to those in need in Rajshahi.",
+      "status": "Active",
+      "contactInfo": "rajshahi@kindwarm.com",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 4,
+      "title": "Sylhet Warmth Campaign",
+      "image": "https://i.ibb.co.com/w49nBqk/4.jpg",
+      "description": "Providing warmth and comfort through donations to communities in Sylhet.",
+      "status": "Active",
+      "contactInfo": "sylhet@kindwarm.com",
+      "division": "Sylhet"
+    },
+    {
+      "id": 5,
+      "title": "Barisal Community Drive",
+      "image": "https://i.ibb.co.com/zbpQFc2/5.jpg",
+      "description": "Helping vulnerable families in Barisal stay warm this winter through donations.",
+      "status": "Active",
+      "contactInfo": "barisal@kindwarm.com",
+      "division": "Barisal"
+    },
+    {
+      "id": 6,
+      "title": "Khulna Kindness Initiative",
+      "image": "https://i.ibb.co.com/VpMYFMY/6.jpg",
+      "description": "Spreading warmth and hope by delivering winter essentials in Khulna.",
+      "status": "Active",
+      "contactInfo": "khulna@kindwarm.com",
+      "division": "Khulna"
+    }
+]
