@@ -50,7 +50,6 @@ const AuthProvider = ({ children }) => {
         return signInWithPopup(auth, provider) 
     }
 
-
     const authInfo = {
         user,
         setUser,
