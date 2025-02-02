@@ -3,6 +3,7 @@ import { motion } from "motion/react"
 import 'animate.css';
 
 const Banner = () => {
+    
     return (
         <div className="md:flex banner-bg rounded-md">
             <div className="w-full py-5 md:p-0 md:my-auto max-h-96 md:w-2/4">
